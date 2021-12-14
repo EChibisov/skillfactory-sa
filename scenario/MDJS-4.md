@@ -1,4 +1,4 @@
-Выбор способа оплаты
+# Выбор способа оплаты
 
 MDJS-4: https://team-1620765183906.atlassian.net/browse/MDJS-4
 
